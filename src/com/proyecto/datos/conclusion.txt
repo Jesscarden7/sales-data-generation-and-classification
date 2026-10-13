@@ -1,6 +1,6 @@
 CONCLUSIONES DEL PROYECTO
 
-Este documento recoge las conclusiones del equipo sobre el proyecto "Generación y clasificación de datos", desarrollado en Java 8 con Eclipse para el módulo Conceptos Fundamentales de Programación. El proyecto consistió en generar archivos planos de prueba (productos, vendedores y ventas) y procesarlos para producir dos reportes ordenados de mayor a menor: el dinero recaudado por vendedor y la cantidad vendida por producto.
+Este documento recoge las conclusiones del equipo sobre el proyecto "Generación y clasificación de datos", desarrollado en Java 8 con Eclipse para la materia Conceptos Fundamentales de Programación. El proyecto consistió en generar archivos planos de prueba (productos, vendedores y ventas) y procesarlos para producir dos reportes ordenados de mayor a menor: el dinero recaudado por vendedor y la cantidad vendida por producto.
 
 1. Lo aprendido durante el desarrollo del proyecto
 
